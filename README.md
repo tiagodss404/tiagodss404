@@ -1,6 +1,6 @@
 👩🏻‍💻 Tiago da Silva
 
-<justify>`"Olá, eu me chamo Tiago da Silva, tenho 38 e sou natural de Brasília. Sou formado em Designer gráfico pelo IESB. Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento com aqueles que estão a minha volta. Meu objetivo é estudar e me tornar desenvolvedor backend."` </justify>
+`"Olá, eu me chamo Tiago da Silva, tenho 38 e sou natural de Brasília. Sou formado em Designer gráfico pelo IESB. Atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento com aqueles que estão a minha volta. Meu objetivo é estudar e me tornar desenvolvedor backend."` 
  
 <p align="left">
         <a href="https://github.com/tiagodss404?tab=repositories&sort=stargazers">
@@ -84,8 +84,8 @@
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="SQlite" 
+    title="SQlite"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"                   
